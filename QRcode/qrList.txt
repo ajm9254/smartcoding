@@ -1,0 +1,5 @@
+www.naver.com
+www.daum.com
+www.google.come
+www.youtube.com
+pypi.org
